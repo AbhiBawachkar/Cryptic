@@ -1,6 +1,6 @@
 import Header from '../components/header'
 import Trending from '../components/trending'
-import CMCTable from '../components/cmc-table/CmcTable'
+import CMCTable from '../components/cmc-table/CMCTable'
 
 export default function Home() {
   return (
