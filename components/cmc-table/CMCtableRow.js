@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import Star from '../../assets/svg/star'
-import Rate from './rate'
+import Rate from './Rate'
 import { useRouter } from 'next/router'
 import CoinNameRow from '../CoinNameRow'
 

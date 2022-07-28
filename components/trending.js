@@ -3,7 +3,7 @@ import fire from "../assets/fire.png"
 import btc from "../assets/btc.png"
 import usdt from "../assets/usdt.png"
 import TrendingCard from './TrendingCard'
-import Rate from "./cmc-table/rate"
+import Rate from "./cmc-table/Rate"
 
 const styles = {
     trendingWrapper: `mx-auto max-w-screen-2xl`,
