@@ -1,7 +1,7 @@
 import Header from '../components/header'
 import Trending from '../components/trending'
 import CMCTable from '../components/cmc-table/CMCTable'
-import SwapCryptoModal from '../components/swapCryptoModal'
+import SwapCryptoModal from '../components/SwapCryptoModal'
 
 export default function Home() {
   return (
